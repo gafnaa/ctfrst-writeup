@@ -6,4 +6,4 @@ Repository ini dibuat untuk arsip saya dalam mengerjakan ctf. Jika ada pertanyaa
 
 ### Note
 
-Untuk kategori Web Exploitation saya tidak membuatnya, karena pada web rajawalisecteam terdapat error, sehingga tidak memungkinkan untuk mengerjakan challenge-challenge tersebut.
+Untuk kategori Web Exploitation tida dibuat karena pada web rajawalisecteam terdapat error, sehingga tidak memungkinkan untuk mengerjakan challenge-challenge tersebut.
